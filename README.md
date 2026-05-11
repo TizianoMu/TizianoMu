@@ -7,4 +7,4 @@ Sono specializzato nello sviluppo di software Saas utilizzando React e framework
 
 🤖 Al momento sto studiando il mondo dell'AI agentica, in modo da poterla sfruttare all'interno dei miei progetti e nella vita quotidiana.
 
-✉️ Se aveste bisogno di contattarmi, potete farlo all'indirizzo tiziano.murzio@outlook.it 
+✉️ Se aveste bisogno di contattarmi per una mano con i vostri progetti, potete farlo all'indirizzo tiziano.murzio@outlook.it 
